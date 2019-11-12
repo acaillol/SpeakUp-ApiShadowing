@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acaillol\\Documents\\SpeakUp\\ApiShadowing\\LegacyApplication\\LegacyApplication\\LegacyApplication.csproj": {}
+    "C:\\Users\\acaillol\\Documents\\sources\\SpeakUp-ApiShadowing\\SpeakUp-ApiShadowing\\LegacyApplication\\LegacyApplication\\LegacyApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acaillol\\Documents\\SpeakUp\\ApiShadowing\\LegacyApplication\\LegacyApplication\\LegacyApplication.csproj": {
+    "C:\\Users\\acaillol\\Documents\\sources\\SpeakUp-ApiShadowing\\SpeakUp-ApiShadowing\\LegacyApplication\\LegacyApplication\\LegacyApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acaillol\\Documents\\SpeakUp\\ApiShadowing\\LegacyApplication\\LegacyApplication\\LegacyApplication.csproj",
+        "projectUniqueName": "C:\\Users\\acaillol\\Documents\\sources\\SpeakUp-ApiShadowing\\SpeakUp-ApiShadowing\\LegacyApplication\\LegacyApplication\\LegacyApplication.csproj",
         "projectName": "LegacyApplication",
-        "projectPath": "C:\\Users\\acaillol\\Documents\\SpeakUp\\ApiShadowing\\LegacyApplication\\LegacyApplication\\LegacyApplication.csproj",
+        "projectPath": "C:\\Users\\acaillol\\Documents\\sources\\SpeakUp-ApiShadowing\\SpeakUp-ApiShadowing\\LegacyApplication\\LegacyApplication\\LegacyApplication.csproj",
         "packagesPath": "C:\\Users\\acaillol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acaillol\\Documents\\SpeakUp\\ApiShadowing\\LegacyApplication\\LegacyApplication\\obj\\",
+        "outputPath": "C:\\Users\\acaillol\\Documents\\sources\\SpeakUp-ApiShadowing\\SpeakUp-ApiShadowing\\LegacyApplication\\LegacyApplication\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
           "C:\\Users\\acaillol\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
